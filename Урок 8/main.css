@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+body{
+    background-color: black;
+}
+
+.nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  align-items: center;
+}
+
+.nav__logo{
+ color: white;
+ font-family: "Montserrat", sans-serif;
+}
+
+.nav__log{
+    display: flex;
+    color: white;
+    gap: 100px;
+    font-family: "Montserrat", sans-serif;
+    font-size: 20px
+}
+
+li{
+    list-style-type: none;
+}
+
+header{
+    background-image: url('./img/pexels-scosche-1149066 1.png');
+
+}
+
+.nav__h1__log{
+    font-size: 60px;
+    padding: 40px;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+}
+
+.nav__p{
+    font-size: 20px;
+}
+
+.nav__button{
+    margin-left: 40px;
+    padding: 20px;
+    width: 200px;
+    border: orange solid;
+    border-radius: 10px;
+    background-color: orange;
+    color: white;
+}
+
+.nav__border{
+    border: 2px orange solid;
+    width: 565px;
+    margin-left: 1290px;
+    margin-top: 50px;
+}
+
+.nav__h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 1680px;
+}
+
+.nav__div__h1{
+    display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  align-items: center;
+    padding: 40px;
+    font-family: "Montserrat", sans-serif;
+    color: orange;
+    padding-top: 200px;
+}
+
+.nav__div__p{
+    color: white;
+    w
+}
+
+.div__img{
+    gap: 110px;
+   display: flex;
+}
+
+.div__h1{
+    
+    padding: 80px;
+    font-family: "Montserrat", sans-serif;
+    color: orange;
+}
+
+.div__h1__p{
+    
+    margin-left: 100px;
+}
+
+.div__img__h1{
+    gap: 110px;
+    display: flex;
+}
